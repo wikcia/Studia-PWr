@@ -1,0 +1,3 @@
+/Users/wiktoriapazdzierniak/Documents/Studia /4_SEM/Algorytmy i struktury danych/Lista_1/Zadanie_1_LIFO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wiktoriapazdzierniak/Documents/Studia /4_SEM/Algorytmy i struktury danych/Lista_1/Zadanie_1_LIFO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wiktoriapazdzierniak/Documents/Studia /4_SEM/Algorytmy i struktury danych/Lista_1/Zadanie_1_LIFO/cmake-build-debug/CMakeFiles/Zadanie_1.dir

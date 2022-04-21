@@ -1,0 +1,3 @@
+/Users/wiktoriapazdzierniak/Downloads/zad2_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wiktoriapazdzierniak/Downloads/zad2_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wiktoriapazdzierniak/Downloads/zad2_cpp/cmake-build-debug/CMakeFiles/zad2_cpp.dir

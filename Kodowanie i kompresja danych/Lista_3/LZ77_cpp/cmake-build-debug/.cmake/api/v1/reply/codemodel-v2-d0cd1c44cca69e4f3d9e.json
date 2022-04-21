@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LZ77_cpp",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LZ77_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LZ77_cpp-Debug-06e6d9192007e6052cfa.json",
+					"name" : "LZ77_cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/wiktoriapazdzierniak/Documents/Studia /4_SEM/Kodowanie i kompresja danych/Lista_3/LZ77_cpp/cmake-build-debug",
+		"source" : "/Users/wiktoriapazdzierniak/Documents/Studia /4_SEM/Kodowanie i kompresja danych/Lista_3/LZ77_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

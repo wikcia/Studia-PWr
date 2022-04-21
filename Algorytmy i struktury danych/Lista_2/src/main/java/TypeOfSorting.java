@@ -1,0 +1,7 @@
+public enum TypeOfSorting {
+    INSERTION_SORT,
+    MERGE_SORT,
+    QUICK_SORT,
+    DUAL_PIVOT_QUICKSORT,
+    HYBRID_SORTING_ALGORITHM
+}
