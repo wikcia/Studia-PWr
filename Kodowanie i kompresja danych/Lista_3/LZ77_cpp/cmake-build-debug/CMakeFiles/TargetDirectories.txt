@@ -1,3 +1,0 @@
-/Users/wiktoriapazdzierniak/Documents/Studia /4_SEM/Kodowanie i kompresja danych/Lista_3/LZ77_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/wiktoriapazdzierniak/Documents/Studia /4_SEM/Kodowanie i kompresja danych/Lista_3/LZ77_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/wiktoriapazdzierniak/Documents/Studia /4_SEM/Kodowanie i kompresja danych/Lista_3/LZ77_cpp/cmake-build-debug/CMakeFiles/LZ77_cpp.dir
